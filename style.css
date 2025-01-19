@@ -1,0 +1,12 @@
+.container {
+    display: inline-block;
+    width: 400px;
+}
+
+.container div {
+    background-color: rgb(76, 76, 76);
+    color: white;
+    margin: 1rem;
+    height: 50px;
+    text-align: center;
+}
