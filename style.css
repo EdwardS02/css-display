@@ -1,6 +1,7 @@
 .container {
     display: inline-block;
     width: 400px;
+    clear: left;
 }
 
 .container div {
@@ -9,4 +10,13 @@
     margin: 1rem;
     height: 50px;
     text-align: center;
+}
+
+.this-is {
+    height: 300px;
+    float: left;
+}
+
+.artist {
+    clear: left;
 }
