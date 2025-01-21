@@ -36,3 +36,20 @@
     background-color: rgb(81, 81, 81);
     color: white;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 1rem;
+}
+
+.blue {
+    background-color: blue;
+    height: 5rem;
+}
+
+.red {
+    background-color: red;
+    height: 5rem;
+}
