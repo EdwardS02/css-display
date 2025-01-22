@@ -53,3 +53,9 @@
     background-color: red;
     height: 5rem;
 }
+
+@media (min-width: 319px) and (max-width: 768px) {
+    .this-is {
+        height: 200px;
+    }
+}
